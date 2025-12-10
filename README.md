@@ -8,16 +8,27 @@ providing a great starting point to getting familiar with PSOC™ Edge.
 ## Device family
 - [PSOC™ Edge](https://www.infineon.com/products/microcontroller/32-bit-psoc-arm-cortex/32-bit-psoc-edge-arm)
 
+## How to use this training?
+1. Download the training [content](#content).
+2. Watch the video or review the presentation at your own pace.
+3. Follow the step-by-step instructions in the training manual during the hands-on sections.
+4. Use the provided source files if needed to verify the solution. 
+
 ## Training level
 - E2: Intermediate
 
 ## Pre-requisites 
-- ModusToolbox™ with Eclipse IDE
-- DEEPCRAFT™ Studio
-- Basic understanding of PSOC™ Edge MCU and peripherals
-- Basic understanding of ModusToolbox™ 
+### Recommended trainings
+- This training doesn't cover basic concepts of ModusToolbox™ and PSOC™ Edge. 
+  - For an introduction to PSOC™ MCUs, including getting started guides to ModusToolbox™, go to the [PSOC™ Developer Journey](https://www.infineon.com/product-information/psocdeveloper).
+  - For PSOC™ Edge trainings, from begginer tutorials to advanced trainings, please visit the [PSOC™ Edge E84 Training Collection](https://infineon-academy.csod.com/ui/lms-learner-playlist/PlaylistDetails?playlistId=8f04565f-88f4-4ca7-83b3-22e501656fbd).
 
-See [training content](#content) for versions and instructions.
+### Tools (see [training manual](#content) for versions and installation instructions)
+- [ModusToolbox™ with Eclipse IDE](https://softwaretools.infineon.com/tools/com.ifx.tb.tool.modustoolboxsetup)
+- [Edge Protect Security Suite](https://softwaretools.infineon.com/tools/com.ifx.tb.tool.modustoolboxsetup)
+- [ModusToolbox™ Programming tools](https://softwaretools.infineon.com/tools/com.ifx.tb.tool.modustoolboxsetup)
+- Terminal emulator
+
 
 ## Hardware
 - [KIT_PSE84_EVAL](https://www.infineon.com/evaluation-board/KIT-PSE84-EVAL)
@@ -26,20 +37,20 @@ See [training content](#content) for versions and instructions.
 - 4-8hrs, including video and hands-on labs with challenges
 
 ## Agenda
-1. Getting started and Hello World example
+1. Getting started
 2. Audio: 2 labs
-3. Sensor hub: 21 labs
+3. Sensor hub: 1 lab
 4. Graphics: 2 labs
 5. SMIF: 2 labs
 6. Low power modes: 2 labs
 7. Machine learning: 1 lab including data collection, training, and model deployment
 
 ## Expected outcome
-- Get hands-on experience with some of the key features and advantages of PSOC™ Edge E84
-- Get familiar with PSOC™ Edge E84 hardware and software ecosystem
-- Dive deeper with challenges included for all labs
+- Get hands-on experience with some of the key features and advantages of PSOC™ Edge E84.
+- Get familiar with PSOC™ Edge E84 hardware and software ecosystem.
+- Dive deeper with challenges included for all labs.
 
-## Content (todo)
+## Content
 -  [Training video at Infineon Academy](https://infineon-academy.csod.com/ui/lms-learning-details/app/video/28f341de-0dfd-4066-ba33-30c9aa1e355b)
 - [Presentation](./Presentation/PSE84_Technical_introduction_features.pdf)
 - [Training manual Chapter 1: Intro](./Manual/PSE84_Technical_intro_features_Training_manual_Ch1_Intro.pdf)
@@ -62,4 +73,4 @@ See [training content](#content) for versions and instructions.
 
 | Date | Version | Description |
 | ---- | ---------   |-------------|
-| 11/26/2025 | ** | First public release |  
+| 01/27/2026 | **  | First public release |  

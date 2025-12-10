@@ -1,0 +1,15 @@
+/*****************************************************************************
+* \file LocalVoice_training_U55_WWmodel.h
+*****************************************************************************
+* \copyright
+* Copyright 2025, Infineon Technologies.
+* All rights reserved.
+*****************************************************************************/
+
+#ifndef LOCALVOICE_TRAINING_U55_WWMODEL_H
+#define LOCALVOICE_TRAINING_U55_WWMODEL_H
+
+extern const char LocalVoice_training_WWmodeldata[];
+#define LOCALVOICE_TRAINING_WWMODELDATA_SIZE 7280
+
+#endif // LOCALVOICE_TRAINING_U55_WWMODEL_H
