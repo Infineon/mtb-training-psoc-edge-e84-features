@@ -51,7 +51,7 @@ providing a great starting point to getting familiar with PSOC™ Edge.
 - Dive deeper with challenges included for all labs.
 
 ## Content
--  [Training video at Infineon Academy](https://infineon-academy.csod.com/ui/lms-learning-details/app/video/28f341de-0dfd-4066-ba33-30c9aa1e355b)
+-  [Training video at Infineon Academy](https://infineon-academy.csod.com/samldefault.aspx?ouid=1&returnURL=%252fDeepLink%252fProcessRedirect.aspx%253fmodule%253dlodetails%2526lo%253df42ca461-7b77-4eed-b019-8d82f41097e0)
 - [Presentation](./Presentation/PSE84_Technical_introduction_features.pdf)
 - [Training manual Chapter 1: Intro](./Manual/PSE84_Technical_intro_features_Training_manual_Ch1_Intro.pdf)
 - [Training manual Chapter 2: Audio](./Manual/PSE84_Technical_intro_features_Training_manual_Ch2_Audio.pdf)
