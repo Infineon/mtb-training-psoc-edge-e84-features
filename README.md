@@ -1,4 +1,4 @@
-# PSOC™ Edge E2 Training - Technical introduction to PSOC™ Edge E84 features
+# PSOC™ Edge Training - Technical introduction to PSOC™ Edge E84 features
 
 This training provides an introduction to key features of the PSOC™ E84 microcontrollers,
 including audio, graphics, sensor hub, memories, low power modes, and machine learning. 
@@ -20,7 +20,7 @@ providing a great starting point to getting familiar with PSOC™ Edge.
 ## Pre-requisites 
 ### Recommended trainings
 - This training doesn't cover basic concepts of ModusToolbox™ and PSOC™ Edge. 
-  - For an introduction to PSOC™ MCUs, including getting started guides to ModusToolbox™, go to the [PSOC™ Developer Journey](https://www.infineon.com/product-information/psocdeveloper).
+  - For an introduction to PSOC™ MCUs, including getting started guides to ModusToolbox™, go to the [PSOC™ Developer Journey](https://www.infineon.com/PSOCdeveloper).
   - For PSOC™ Edge trainings, from begginer tutorials to advanced trainings, please visit the [PSOC™ Edge E84 Training Collection](https://infineon-academy.csod.com/ui/lms-learner-playlist/PlaylistDetails?playlistId=8f04565f-88f4-4ca7-83b3-22e501656fbd).
 
 ### Tools (see [training manual](#content) for versions and installation instructions)
@@ -65,7 +65,7 @@ providing a great starting point to getting familiar with PSOC™ Edge.
 ## References and resources
 
 - [PSOC™ Edge MCUs](https://www.infineon.com/products/microcontroller/32-bit-psoc-arm-cortex/32-bit-psoc-edge-arm)
-- [Introduction to PSOC™ MCUs and ModusToolbox™](https://www.infineon.com/product-information/psocdeveloper)
+- [Introduction to PSOC™ MCUs and ModusToolbox™](https://www.infineon.com/PSOCdeveloper)
 - [PSOC™ Edge E84 training collection](https://infineon-academy.csod.com/samldefault.aspx?ouid=1&returnURL=%252fDeepLink%252fProcessRedirect.aspx%253fmodule%253dphnxdriver%2526routename%253dAdmin%252fPlayerPageRedirectHandler%2526Route%253d%25252flms-learner-playlist%25252fPlaylistDetails%2526Parameters%253dplaylistId%25253d8f04565f-88f4-4ca7-83b3-22e501656fbd)
 
 
